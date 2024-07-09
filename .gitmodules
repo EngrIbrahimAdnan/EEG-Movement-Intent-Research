@@ -1,0 +1,4 @@
+[submodule "EEG_analysis"]
+	path = EEG_analysis
+	url = https://github.com/ROAR-Lab-Spine/EEG_analysis.git
+	branch = main
